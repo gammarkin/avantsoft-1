@@ -48,7 +48,7 @@ Este projeto é composto por uma API e uma aplicação cliente (front-end). Abai
 
 ## 🧪 Como Testar o Back-end
 
-Execute os testes automatizados da API com o comando:
+Execute os testes automatizados da API com o comando dentro da pasta api:
 
 ```bash
 npm test
@@ -116,7 +116,7 @@ This project consists of a back-end API and a front-end client application. Belo
 
 ## 🧪 How to Test the Back-end
 
-To run the automated tests for the API, use:
+To run the automated tests for the API, use this command inside the api folder:
 
 ```bash
 npm test
