@@ -39,7 +39,7 @@ Este projeto é composto por uma API e uma aplicação cliente (front-end). Abai
 
 3. Inicie a aplicação:
    ```bash
-   npm start
+   npm run dev
    ```
 
 > 💡 **Pré-requisitos:** Certifique-se de ter o Node.js instalado em sua máquina.
@@ -107,7 +107,7 @@ This project consists of a back-end API and a front-end client application. Belo
 
 3. Start the client application:
    ```bash
-   npm start
+   npm run dev
    ```
 
 > 💡 **Prerequisites:** Make sure Node.js is installed on your machine.
