@@ -2,6 +2,12 @@
 
 Este projeto é composto por uma API e uma aplicação cliente (front-end). Abaixo estão as instruções para executar, testar e configurar o ambiente.
 
+If you want the database with already mock data, you can use in your .env: || Se você quer a base de dados já com dados de teste, você pode inserir em seu .env:
+
+```
+MONGODB_URI=mongodb+srv://luskadoof:q2PuaT5Fotl2Mxdw@avant.wcymsx6.mongodb.net/
+```
+
 > 🇺🇸 [English version below](#-english-version)
 
 ---
